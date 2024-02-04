@@ -1,5 +1,5 @@
 # Infrastructure Engineer Task
-# Rishi Kumar - 20BCY10052
+# Nidhish Malviya
 ## Problem Statement
 
 You have been given a dataset of customer orders from an online store. The data is in a CSV file `orders.csv` with the following columns:
@@ -33,9 +33,6 @@ These instructions will help you set up and run the project on your local machin
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/iAmRishijha/tanX.fi-task.git
-    ```
 2. Move to the directory
    
 3. Build the Docker images:
